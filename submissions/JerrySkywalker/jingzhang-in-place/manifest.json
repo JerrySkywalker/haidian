@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "fd2635557b6a052f68a476271aff8625881dcfa29dab8ee1f23a4140cf4b4b8e"
+      "sha256": "91403c923c51709ded673d070136c699fda3c0fa3999e7168e2a9b7b021f26dd"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "208b6625dbc788ec2638655ab404bac545c83d0ae42a48cae2aaa9679a601c59"
+      "sha256": "6bad2714cac6cb46ec77236eb9891aa4cf9de3ec892c3a6aa73bf6c2b9750d97"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "7701ddefbfa7c1ecf439c8b18b804ec8118e543dc0e0ddcdf2aac712c1504487"
+      "sha256": "66ac90ea0fb8c8048137b9087b20edb848cc7e071d1e12c5d60b84e7b215b756"
     },
     {
       "path": "report/narrative.md",
@@ -93,7 +93,7 @@
       "path": "report/copyright_statement.md",
       "role": "copyright_statement",
       "required": true,
-      "sha256": "898985f14d58af905a0ea87ca1e3dcfd85cadda2c5c17052f718962750cdf9fc"
+      "sha256": "b454eed874505eccb3ec6ecf8e07cb26e760f41730388cbdb53ca91b152ec629"
     },
     {
       "path": "drawings/a3-booklet.pdf",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "20cc21505a70c6214cac2476070430633ff8e308d72da219f207e82a7db9509d"
+      "sha256": "f27eef168ec7e8f4b9e01a4915036dad3d13a932f26832c5bdadb200e3d6ce28"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "21278b19fc6f18e54ab1c32476cdb6a9b71273e1532f1aa9551810a6b215be18"
+      "sha256": "1637067c1a841d2a5f2dc018196dbd657b844d0c3a447e149190ff91bbef4717"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -319,7 +319,7 @@
       "path": "visual/assets/ai-spatial-admission.json",
       "role": "evidence_data",
       "required": false,
-      "sha256": "b42f4fc1e3c7a5ffefb11d6e1991446630491159f872c697f33896dcf6099bdb"
+      "sha256": "e4ecb93611ac94a2b125cd41e9e282f801b457bcc7bf67db6563eea8b00f1ef1"
     }
   ],
   "validation_claim": {

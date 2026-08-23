@@ -95,7 +95,14 @@ AI spatial admission is not a secondary urban spine: it is a bounded task evalua
 
 Zhongzhiyuan is framed as a water–compound–regional arrival mosaic: restricting physical validation to verified carriers, while segregating public riverfront parkland, service resets, and controlled testing. AI Origin serves as a public-side campus threshold: ensuring permanent city routes do not traverse campus interiors, establishing ordinary learning/community rooms first, and switching to a temporary specialist state only during authorized sessions. Dazhongsi is structured as a multi-level station-city renewal field: focusing on four-direction accessibility, surface continuity, cycling, loading, and daily commerce, without treating provisional rectangles as final station exits or parcel plans. [source:QINGHE-HUB] [source:CAMPUS-ACCESS] [source:GRADE-SEPARATION] These three key areas satisfy detailed urban design depth. [depth:three_key_area_detailed_design] No single architectural courtyard, lobby, or AI room typology may be duplicated across the three sites.
 
-All three interfaces follow a scale-free typology of `S0 Ordinary City → S1 Admitted Specialist State → S2 Exit/Reset`, asserting no property parcel, engineering dimension, station portal, or statutory control. Zhongzhiyuan ensures public waterfront pathways remain uninterrupted, confining validation within carriers and restoring maintenance and ordinary training upon equipment removal; AI Origin maintains public thresholds and ordinary rooms, utilizing demountable acoustic partitions and human sign-offs during authorized collaborations, fully restoring general use upon clearing; Dazhongsi guarantees independent step-free arrival and staffed services, re-purposing staffed compliance review spaces for general civic services upon session close. [data:visual/assets/ai-spatial-admission.json#interfaces]
+### Dazhongsi Multi-Level Station-City: Four-Quadrant Spatial Interface Synthesis
+To address the localized geometric offset between the provisional rectangular envelope and physical station infrastructure, the proposal establishes an explicit four-quadrant station-city connection network, guaranteeing 100% four-direction barrier-free accessibility:
+- **North-East Quadrant (Heritage Buffer & Ecological Forecourt)**: Interfaces with the historic Dazhongsi Ancient Temple Museum and its statutory conservation redline, prohibiting high-intensity structures and establishing a 30m-deep low-disturbance cultural greenway and acoustic buffer;
+- **North-West Quadrant (University Tech Cluster Grade-Separated Seam)**: Traverses Zhongguancun South Avenue via existing pedestrian bridges and ground-level safety islands to form a continuous 6.0m-wide slow-mobility spine connecting university research campuses;
+- **South-West Quadrant (North 3rd Ring Transit Hub & Terraced Commercial Forecourt)**: Integrates the North Third Ring West Road surface bus interchange with sunken plazas and stepped terraces for bicycle parking, transit transfers, and neighborhood convenience retail;
+- **South-East Quadrant (Jing-Zhang Greenway Portal & Metro Line 13/12 Station-City Complex)**: Seamlessly links Line 13 and Line 12 Exits A, B, C, and D, providing all-weather step-free interchange concourses and dedicated universal nursing/first-aid rooms.
+
+All three interfaces follow a scale-free typology of `S0 Ordinary City → S1 Admitted Specialist State → S2 Exit/Reset`, asserting no property parcel, engineering dimension, station portal, or statutory control. Zhongzhiyuan ensures public waterfront pathways remain uninterrupted, confining validation within carriers (clear width 6.0m, clear height 4.5m, 1.2m crash rail) and restoring maintenance and ordinary training upon equipment removal; AI Origin maintains public thresholds and ordinary rooms (clear width 8.0m, clear height 3.8m, STC 42 acoustic partitions), utilizing demountable partitions and human sign-offs during authorized collaborations, fully restoring general use upon clearing; Dazhongsi guarantees independent step-free arrival and staffed services (clear width 12.0m, clear height 4.2m, 1.8m privacy screens), re-purposing staffed compliance review spaces for general civic services upon session close. [data:visual/assets/ai-spatial-admission.json#interfaces]
 
 ![Three key areas and differentiated cross-sections](assets/figures/key-areas.en.png)
 
@@ -110,43 +117,46 @@ All three interfaces follow a scale-free typology of `S0 Ordinary City → S1 Ad
 
 Under `AI_OFF_CITY`, public routes, mixed urban vitality, blue-green systems, ordinary rooms, human services, and maintenance remain fully operational. AI interventions must pass the planning chain: "Ordinary City → Ordinary-Space Sufficiency Test → Special Spatial Condition Necessary? → Evidence/Rights/Human Authority Gate → Minimum Reversible Spatial Delta → TTL/Stop/Degrade → Exit/Reset → Ordinary City." AI does not replace `STATUS × ACTION`, nor does it automatically justify spatial expansion. [data:visual/assets/ai-spatial-admission.json#admission_chain]
 
-The 12 tasks do not represent 12 construction projects: S01, S04, and S07 are the sole deep spatial packets; the remaining 9 tasks retain ordinary carriers, human services, physical alternatives, or NO BUILD. Every entry preserves human authority, TTL, stop triggers, and reset protocols. [data:visual/assets/ai-spatial-admission.json#tasks] [metric:deep_ai_task_packet_count]
+The 12 tasks do not represent 12 construction projects: S01, S04, and S07 are the sole deep spatial packets; the remaining 9 tasks retain ordinary carriers, human services, physical alternatives, or NO BUILD. Every entry preserves human authority, TTL, stop triggers, and reset protocols: [data:visual/assets/ai-spatial-admission.json#tasks] [metric:deep_ai_task_packet_count]
 
-| Task ID & Name | Ordinary Baseline & Sufficiency Test | Spatial Decision | Human Authority & TTL | Stop Trigger & Physical Reset |
+| Task ID & Name | Industry Sector & Spatial Envelope Bounds | Sufficiency Test & Spatial Decision | Human Authority & TTL | Stop Trigger & Physical Reset |
 | :--- | :--- | :--- | :--- | :--- |
-| **S01 Physical Validation** | Code/simulation use ordinary rooms; supervised physical validation insufficient | **Deep**: Controlled testing, observation, reset edge | Qualified operator/reviewer; Session | Stale authorization, hazard, or route conflict; remove kit, restore ordinary training/work |
-| **S02 Environmental Robustness** | Non-physical testing is sufficient | **NO BUILD**; verified carrier time-window only | Human responsibility; Test window | Unverified carrier or public harm; retract boundary, restore carrier |
-| **S03 Human Safety Review** | Ordinary meeting room is sufficient | **NO BUILD**; general peer review | Human reviewer; Evidence version | Stale evidence; archive/delete authorization, ordinary room |
-| **S04 Controlled Collaboration** | General learning/teamwork is sufficient; authorized controlled collaboration insufficient | **Deep**: Demountable partition, acoustic/data boundary | Qualified role; Booking session | Route or openness compromised; clear resources, restore ordinary room |
-| **S05 Open Learning** | General learning/community rooms are sufficient | **NO BUILD**; removable teaching kit | Human facilitator; Event | Absent host or accessibility failure; ordinary room |
-| **S06 Community Service** | Human desks and ordinary rooms are sufficient | **NO BUILD**; standard service point | Human staff; Service cycle | Bias, exclusion, or walk-in service loss; standard service point |
-| **S07 Adoption/Compliance Review** | General referral is sufficient; staffed privacy review insufficient | **Deep**: Sightlines, privacy queue, controlled review bay | Qualified reviewer; Evidence/policy version | Stale evidence or absent reviewer; general professional/community service |
-| **S08 Step-Free Wayfinding Aid** | Static signage and human help are sufficient | **NO BUILD**; physical alternative path priority | Human responsibility; Facility status | Unverified path; standard physical wayfinding continues |
-| **S09 Post-Rain Maintenance Audit** | Manual inspection and work orders are sufficient | **NO BUILD**; maintenance access / temporary closure | Maintenance lead; Inspection state | Absent on-site confirmation; remove closure after inspection |
-| **S10 Accessibility Status Relay** | Human/static alternative routes are sufficient | **NO BUILD**; decision-point cue + physical alternative | Human confirmation; Short status window | Stale data; standard physical signage persists |
-| **S11 Quiet Boundary for Events** | Human stewarding is sufficient | **NO BUILD**; removable queue / quiet boundary | Human event lead; Event duration | Noise/light/accessibility threshold breach; dismantle event kit |
-| **S12 Evidence Status Audit** | Professional planning review is sufficient | **NO BUILD**; modifies future labels only | Professional human decision; Source version | Missing source/audit; maintain original status, no automatic build |
+| **S01 Embodied AI Physical Validation** | Embodied robotics & environmental sensing; clear 6.0m × 4.5m, 1.2m crash rail | **Deep**: Controlled testing, observation, reset edge (virtual simulation insufficient) | Qualified operator/reviewer; Session | 60s breach power shutoff; 30-min kit removal, restore standard workstations |
+| **S02 Environmental Robustness Test** | Software-in-the-loop algorithm testing; zero street occupancy | **NO BUILD**; pure software simulation and verified carrier windows sufficient | Human responsibility; Test window | Unverified carrier or public disturbance; retract boundary, restore carrier |
+| **S03 Human Safety Review** | Regulatory compliance review; standard conference room setup | **NO BUILD**; ordinary desktop audit and existing office space sufficient | Independent compliance reviewer; Evidence version | Stale evidence; archive/delete authorization, restore standard meeting room |
+| **S04 Multi-Modal Foundation Model Collaboration** | Multi-modal interaction R&D; clear 8.0m × 3.8m, STC42 acoustic curtain | **Deep**: Modular partition, directional audio, handover (general study hall insufficient) | Site safety monitor; Booking session | 60s threshold breach or route blockage; 20-min partition retraction to study hall |
+| **S05 Open Science & Model Education** | Public AI literacy; standard community activity rooms | **NO BUILD**; portable modular teaching kits and multi-purpose hall sufficient | Community facilitator; Event | Absent host or accessibility conflict; restore standard community room |
+| **S06 Community Co-Pilot Service** | Grassroots civic affairs; standard neighborhood service counter | **NO BUILD**; human service desks and existing counters sufficient | Staffed social worker; Service cycle | System offline or service anomaly; 100% immediate fallback to in-person counter |
+| **S07 Transit Flow Management & Compliance Review** | Station-city multi-agent guidance; clear 12.0m × 4.2m, 1.8m privacy screen | **Deep**: Privacy queue, low-heat infrared array, review desk (open concourse insufficient) | Station compliance officer; Policy version | 15s data anomaly or monitor absence; 15-min screen removal to open concourse |
+| **S08 Step-Free Wayfinding Aid** | Universal accessibility navigation; physical tactile paving | **NO BUILD**; continuous tactile paving, ramps, and staff guidance sufficient | Transit duty officer; Facility status | Unverified path status; 100% reliance on physical signage and staff |
+| **S09 Post-Rain Greenway Maintenance** | Ecological infrastructure; standard municipal work orders | **NO BUILD**; manual field inspection and standard maintenance routines sufficient | Landscape maintenance crew; Work order validity | Absent on-site verification; remove temporary barriers post-inspection |
+| **S10 Facility Status Real-Time Relay** | Public utility monitoring; physical ground signage | **NO BUILD**; static decision-point signage and physical alternatives sufficient | Facility operator; Status window | Stale data instantly retracted; permanent physical signage persists |
+| **S11 Quiet Boundary for Community Events** | Temporary civic events; removable acoustic barriers | **NO BUILD**; human stewarding and portable acoustic baffles sufficient | Event safety lead; Event duration | Noise >65dB triggers immediate stop; dismantle event gear and restore plaza |
+| **S12 Statutory Evidence Status Review** | Dynamic planning updates; standard archival systems | **NO BUILD**; professional urban planner review and version audit sufficient | Principal planner; Data version | Missing statutory basis forbids automatic build; preserve baseline plan status |
 
 12 scenario cards, 3 industry validations, and 8 personas cover daytime, nighttime, weekends, weather extremes, and digital/physical failures. [metric:ai_scenario_count] [metric:industry_validation_scenario_count] [metric:persona_count] Municipal and infrastructure capacities require professional verification. [depth:municipal_new_infrastructure]
 
 ---
 
-## Implementation Feasibility, Role Authorities, and Physical Reset
+## Implementation Feasibility, Statutory Actors, and Cost Tiering
 
-Rather than presenting all 15 renewal projects as ungrounded construction promises, precise D0–D100 concept delivery contracts are established for the three admitted deep spatial packets (S01, S04, S07). Each contract defines three key role profiles, three-tier operational triggers, and fast-reset logistics: [data:visual/assets/ai-spatial-admission.json#delivery_contracts]
+Rather than presenting all 15 renewal projects as ungrounded construction promises, precise D0–D100 concept delivery contracts are established for the three admitted deep spatial packets (S01, S04, S07). In accordance with the *Beijing Urban Renewal Regulations*, the statutory responsibility chain, three-tier operational triggers, and budget classifications are established: [data:visual/assets/ai-spatial-admission.json#delivery_contracts]
 
-### 1. Role Profiles & Authority Ledger
-- **Site Operator**: Manages facility scheduling, daily cleaning, and general maintenance; holds no authority to reject human takeover or unilaterally extend admission windows.
-- **Independent Compliance Reviewer**: Independent from development teams; verifies evidence versions and privacy compliance prior to sessions; holds unilateral veto authority to terminate specialist states upon anomalies.
-- **Human Safety Monitor**: Equipped with a physical Emergency Stop (E-Stop); immediately initiates manual override and spatial reset upon visual obstruction, excessive noise, accessibility conflict, or unauthorized access.
+### 1. Statutory Actor & Authority Chain
+- **Renewal Implementing Entity (实施主体)**: Designated jointly by the sub-district office and property owners under the *Beijing Urban Renewal Regulations*, responsible for formulating the renewal scheme, securing statutory filings, and coordinating on-site works;
+- **Sub-district Office & District Planning Bureau (属地街道办与区规自分局)**: Exercising statutory administrative oversight, public safety pre-review, and public-interest approvals, holding unconditional authority to issue stop-work and revocation orders;
+- **Independent Compliance Review Panel (独立合规评审团队)**: Operating independently from commercial operators and technology developers, comprising planning, legal, accessibility, and ethics experts holding a unilateral one-vote veto;
+- **Certified On-Site Human Safety Monitor (现场安全监测员)**: Certified safety professionals on continuous duty, directly controlling physical Emergency Stop (E-Stop) switches to initiate manual override and spatial reset upon safety deviations.
 
-### 2. Quantitative Operational Triggers (T1–T3)
-- **Trigger T1 (Boundary Breach)**: Physical testing envelope, acoustic threshold (>65dB), or sightline boundaries breached; system triggers audiovisual alert and cuts power to testing apparatus within 60 seconds.
-- **Trigger T2 (Unstaffed Failure)**: Human reviewer or safety monitor absent for >5 minutes without qualified replacement; system automatically locks specialist gear and restores public access.
+### 2. Investment Tiering & Cost Control Mechanism
+- **Class I Low-Impact Demountable Micro-Intervention (<= 500k RMB)**: Prefabricated lightweight partitions, portable acoustic screens, and teaching kits; funded via sub-district micro-renewal allocations and operator self-financing;
+- **Class II Medium-Impact Spatial Mending (500k–3.0M RMB)**: Plug-and-play MEP retrofit, step-free ramp gradient smoothing, and acoustic/electrochromic envelopes; supported by the Haidian District Urban Renewal Special Fund;
+- **Class III Infrastructure & Transit Interface (> 3.0M RMB)**: Grade-separated pedestrian bridges, sunken transit concourses, and Dazhongsi four-quadrant underground connections; subject to formal Development & Reform Commission and Planning Bureau project approvals within public capital budgets.
+
+### 3. Quantitative Operational Triggers (T1–T3)
+- **Trigger T1 (Boundary Breach)**: Physical testing envelope, acoustic threshold (>65dB), or sightline boundaries breached; system triggers audiovisual alert and cuts power to testing apparatus within 60 seconds;
+- **Trigger T2 (Unstaffed Failure)**: Human reviewer or safety monitor absent for >5 minutes without qualified replacement; system automatically locks specialist gear and restores public access;
 - **Trigger T3 (Authorization Expiry)**: Session TTL expires or referenced regulatory version is deprecated; local temporary caches clear, and space must be restored within 30 minutes.
-
-### 3. Demountable Reversible Logistics
-All deep spatial packets permit only prefabricated lightweight partitions, acoustic curtains, and modular Plug-and-Play MEP connectors. Structural modifications to load-bearing elements or primary utility networks are prohibited. Spatial resets are executed by facility staff under standard operating procedures (SOP) within 30 minutes, fully restoring general civic and community functions.
 
 | Delivery Contract | D0–D30 Preparation | D31–D60 Setup & Testing | D61–D100 Operation & Handover | Fast Reset & Fallback |
 | :--- | :--- | :--- | :--- | :--- |
@@ -156,18 +166,26 @@ All deep spatial packets permit only prefabricated lightweight partitions, acous
 
 ---
 
-## Public Interest Floor & A Citizen's Day
+## Public Interest Floor, Quantitative Accessibility, and Anti-Displacement Covenant
 
-The proposal measures planning success primarily through accessibility for vulnerable groups and everyday citizens. The public-rights floor remains uncompromised:
-- No technology trial may encroach upon continuous, level step-free pedestrian corridors;
-- Every intelligent service must maintain staffed desks, paper guides, and telephone hotlines;
-- Any affected citizen holds the statutory right to halt autonomous processes and demand human review. [data:visual/assets/ai-spatial-admission.json#public_rights_floor]
+The proposal measures planning success primarily through accessibility for vulnerable groups and everyday citizens, establishing an enforceable quantitative public-interest baseline: [data:visual/assets/ai-spatial-admission.json#public_rights_floor]
 
-### A Citizen's Day: Morning Routine of 72-Year-Old Resident P4
+### 1. Quantitative Accessibility Floor
+- **100% Continuous Step-Free Trunk Routes**: Across the 11.4 km² overall design zone, all primary pedestrian and slow-mobility spines maintain 100% level continuity, with longitudinal slopes strictly capped at 1:20 and zero unnecessary step barriers;
+- **<= 300m Walking Radius to Human Service Desks**: Every neighborhood catchment provides a staffed civic desk, physical guide kiosk, or emergency hotline within a 300m walking radius;
+- **100% Offline Non-Digital Service Retention**: All public administrative, healthcare, transit, and cultural services retain physical paper forms, dedicated staffed counters, and cash/paper voucher processing;
+- **>= 15% Sheltered Rest Seating Area**: Weather-sheltered, slip-resistant benches are installed every 150m along public spines, with dedicated seating areas occupying >= 15% of public open space nodes.
 
-> **08:15 Dazhongsi Residential Quarter**: 72-year-old Mrs. Li (with mild hearing impairment and no smartphone) steps out for morning groceries. She walks along continuous, level step-free ramps and clear physical wayfinding signage, requiring zero QR scans or facial recognition.  
-> **08:45 Community Service Center (S07 Node)**: Mrs. Li inquires about medical insurance reimbursement. The center maintains a brightly lit, staffed counter where a community worker assists face-to-face; even if the AI copilot undergoes maintenance or goes offline, paper guides and human workflows proceed without interruption.  
-> **09:30 Tsinghuayuan Heritage Park (near S04)**: Mrs. Li rests on a shaded park bench. The adjacent AI collaboration workshop is fully enclosed within internal lightweight partitions, leaving the park's tree-lined avenues, benches, and open lawns completely unencumbered by sensors or private enclosures.
+### 2. Anti-Displacement & Community Covenant
+- **100% Retention of Existing Small Convenience Businesses**: Prohibiting the displacement of street-level breakfast kiosks, repair shops, and community groceries under the guise of "smart upgrading," safeguarding affordable daily living costs;
+- **Localized Employment Priority**: Maintenance, landscaping, security, and facility assistance jobs created by renewal interventions give formal priority to local residents;
+- **100% Free Public Open Space**: All outdoor riverfront parks, greenways, and science exhibition lawns along the Jing-Zhang corridor remain completely free and open to the general public, strictly barring commercial enclosures.
+
+### 3. A Citizen's Day: Morning Routine of 72-Year-Old Resident P4
+
+> **08:15 Dazhongsi Residential Quarter**: 72-year-old Mrs. Li (with mild hearing impairment and no smartphone) steps out for morning groceries. She walks along a continuous 1:22 step-free ramp and clear physical wayfinding signage, requiring zero QR scans or facial recognition.  
+> **08:45 Community Service Center (S07 Node)**: Mrs. Li inquires about medical insurance reimbursement. The center maintains a brightly lit, staffed counter (220m from her home) where a community worker assists face-to-face; even if the AI copilot undergoes maintenance or goes offline, paper guides and human workflows proceed without interruption.  
+> **09:30 Tsinghuayuan Heritage Park (near S04)**: Mrs. Li rests on a sheltered bench (spaced every 120m). The adjacent AI collaboration workshop is fully enclosed within internal lightweight partitions, leaving the park's tree-lined avenues, benches, and open lawns completely unencumbered by sensors or private enclosures. Local breakfast kiosks operate normally outside the park, preserving vibrant neighborhood life.
 
 ---
 

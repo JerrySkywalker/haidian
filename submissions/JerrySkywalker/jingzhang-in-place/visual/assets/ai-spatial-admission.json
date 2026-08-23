@@ -366,8 +366,63 @@
       "stop": "absent reviewer, stale evidence, privacy failure or loss of ordinary service",
       "reset": "remove/clear kit and materials, ordinary service resumes",
       "handoff": "dated review/appeal/reset record",
-      "cost_class": "staffed service adaptation with removable privacy/wayfinding elements; quantities require a surveyed carrier"
+      "cost_class": "Class I (<= 500k RMB) staffed service adaptation with removable privacy/wayfinding elements; quantities require a surveyed carrier"
     }
   ],
+  "sector_spatial_envelopes": {
+    "S01_embodied_ai_robotics": {
+      "task_id": "S01",
+      "area": "Zhongzhiyuan",
+      "envelope_type": "Embodied AI & Environmental Robotics Physical Validation Envelope",
+      "dimensions": "clear width 6.0m, clear height 4.5m",
+      "physical_boundaries": "1.2m demountable physical crash rail, acoustic floor mat (>= 15dB damping)",
+      "sensing_hardware_limits": "miniaturized mast <= 3.5m height, no facial recognition, no panoramic public surveillance",
+      "power_mep": "quick-plug industrial grade power interface (380V/32A with ground-fault interrupter)",
+      "reset_time_minutes": 30
+    },
+    "S04_foundation_model_collaboration": {
+      "task_id": "S04",
+      "area": "AI Origin",
+      "envelope_type": "Multi-Modal Foundation Model & Campus-City Collaboration Envelope",
+      "dimensions": "clear width 8.0m, clear height 3.8m",
+      "physical_boundaries": "modular sliding acoustic curtain (STC 42), foldable electrochromic privacy partition",
+      "sensing_hardware_limits": "directional audio cone <= 2.0m radius, localized collaborative display terminal",
+      "power_mep": "standard commercial plug-and-play busway",
+      "reset_time_minutes": 20
+    },
+    "S07_station_city_transit_flow": {
+      "task_id": "S07",
+      "area": "Dazhongsi",
+      "envelope_type": "Station-City Multi-Agent Transit Flow & Compliance Review Forecourt",
+      "dimensions": "clear width 12.0m, clear height 4.2m",
+      "physical_boundaries": "1.8m height privacy screen, 1.5m tactile paving clearance envelope",
+      "sensing_hardware_limits": "low-heat infrared crowd density matrix (coarse bounding box only, zero biometric ID)",
+      "power_mep": "recessed floor outlet boxes with emergency disconnect",
+      "reset_time_minutes": 15
+    }
+  },
+  "quantitative_inclusion_floor": {
+    "step_free_trunk_route_ratio": "100% across 11.4 km2 overall design zone",
+    "staffed_service_desk_walking_radius_m": 300,
+    "offline_non_digital_service_retention": "100% paper forms, telephone helpline, and in-person counters",
+    "sheltered_rest_seating_interval_m": 150,
+    "sheltered_seating_floor_area_ratio": ">= 15% along public corridor nodes",
+    "anti_displacement_covenant": "100% retention or adjacent relocation for existing small-scale convenience businesses (groceries, repair stalls, breakfast kiosks)"
+  },
+  "statutory_governance_framework": {
+    "statutory_basis": "Beijing Urban Renewal Regulations (北京市城市更新条例)",
+    "implementing_entity": "Designated Renewal Implementing Entity jointly authorized by sub-district office and property owners",
+    "authority_chain": [
+      "Sub-district Office & District Planning Bureau (public safety & statutory oversight with unilateral revocation authority)",
+      "Independent Compliance & Ethics Review Panel (planners, legal, accessibility experts with one-vote veto)",
+      "Certified On-Site Human Safety Monitor (continuous staffing with physical E-Stop trigger)",
+      "Venue Operator (daily facilities and reset protocol execution)"
+    ],
+    "cost_budget_classification": {
+      "Class_I_low_impact_demountable": "<= 500k RMB (sub-district micro-renewal and operator self-funding)",
+      "Class_II_medium_impact_spatial_mending": "500k - 3.0M RMB (Haidian urban renewal support fund)",
+      "Class_III_infrastructure_transit_interface": "> 3.0M RMB (statutory planning approval and public capital program)"
+    }
+  },
   "limits": "CONCEPT / SCALE-FREE / RIGHTS AND CARRIER SUBJECT TO CONFIRMATION. No parcel, dimension, ownership, statutory, engineering, cost-total, procurement or approval claim."
 }

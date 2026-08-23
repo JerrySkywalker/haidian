@@ -307,7 +307,7 @@
       "path": "visual/assets/renewal-project-portfolio.json",
       "role": "evidence_data",
       "required": false,
-      "sha256": "94f1375a90d22de42444fb4bffaa58e01d5728ad0ae75a0103404189dcd8431a"
+      "sha256": "9baa86ff0a156baf5e5260fa823002be2ec503d6953ad4a31dcb1b2e30ce478d"
     },
     {
       "path": "visual/assets/design-evidence-index.json",
@@ -323,7 +323,7 @@
     }
   ],
   "validation_claim": {
-    "self_checked": true,
+    "self_checked": false,
     "known_blockers": [],
     "data_confidence": "mixed_provisional_and_conceptual",
     "readiness_contract": "persisted-self-check-v1"

@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "3c1ebd39cf9d77dd66b79099c6de6cfa2583c8094858ef19f34c25ae6e40b1cd"
+      "sha256": "5e1a5cd8fbdec1647dcd0e4333015a0e7c573e823612e88fc237cd3d5375990c"
     },
     {
       "path": "agent.json",
@@ -44,7 +44,7 @@
       "path": "assumptions.json",
       "role": "assumptions",
       "required": true,
-      "sha256": "6a752481529cc232fd58c55a5a7b0ed91600b71cf564d8d9db10e0efa952aecd"
+      "sha256": "369364a0b62dc9ce5ab483a36943c757a0e037c24f0d2545c46f54c152b992c6"
     },
     {
       "path": "sources.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "fb4ad620b7b45cdc61ae19448057fa8d86f063005d7a73de9c9dc023791836f3"
+      "sha256": "f10c91ad606639dfba7293eeebed211ec931224bcb8940504b7cd9ea400b8325"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,13 +81,13 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "db7a42e77bd8ef585cc3aeeed58c91da134a0115e37c757f13fd2e41b78540a1"
+      "sha256": "b956ef827294819e9189219db0854897468f46519d80ee8fdbb86eb936062c11"
     },
     {
       "path": "report/narrative.md",
       "role": "narrative",
       "required": false,
-      "sha256": "0e4e1f34747edbd39207c6c2487d7c6952e486c5af41a00be5866b1187b4d780"
+      "sha256": "4e37e60b181b84bdf64867694843f197d2462c93b1e5e2a9b9e47e8ef8845264"
     },
     {
       "path": "report/copyright_statement.md",
@@ -211,7 +211,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "40e2093b2f36741da3aa352f770dc719bf7bccb3766678c26ee27e546a52d180"
+      "sha256": "0174d857539ede9f02912fb0fb16d013990752215dc503c05152e2a3ea4cfb03"
     },
     {
       "path": "report/proposal.en.html",
@@ -219,7 +219,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "8b4fc511ae34d90270cc241bd7130d8e72e1c7fb94414a928e8dc4cd5d9a8150"
+      "sha256": "a167989f4f70a3eec09370a975df742adf01f577ae0ef9e3ff0908fb8da74034"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -295,7 +295,7 @@
       "path": "changelog.md",
       "role": "changelog",
       "required": false,
-      "sha256": "9d5e591727226887bbb481e4022eb9ac99fd6dae58e664cc29d9e5f521f076b8"
+      "sha256": "0ea396ad7b3e2406d452be0096f75911ade1ca68be7c7f36b20baf45b149d6b2"
     },
     {
       "path": "visual/assets/status-action-register.json",
@@ -307,7 +307,7 @@
       "path": "visual/assets/renewal-project-portfolio.json",
       "role": "evidence_data",
       "required": false,
-      "sha256": "9baa86ff0a156baf5e5260fa823002be2ec503d6953ad4a31dcb1b2e30ce478d"
+      "sha256": "509e769e5f4e1c15374380428d8ca31a80c7f8c77a8c7cae77f77ef57ac8f2d6"
     },
     {
       "path": "visual/assets/design-evidence-index.json",
@@ -319,11 +319,11 @@
       "path": "visual/assets/ai-spatial-admission.json",
       "role": "evidence_data",
       "required": false,
-      "sha256": "846091284756ecd4022022930b18cf1abb039ec1e7353d7348fcde003a8007c5"
+      "sha256": "1444f00b30fa087f0eb279a95f0f6d87ab7bfbd208a46035a16a1357fb37318f"
     }
   ],
   "validation_claim": {
-    "self_checked": false,
+    "self_checked": true,
     "known_blockers": [],
     "data_confidence": "mixed_provisional_and_conceptual",
     "readiness_contract": "persisted-self-check-v1"

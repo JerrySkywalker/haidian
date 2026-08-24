@@ -29,7 +29,7 @@ To accommodate reviewers with varying time budgets and focus areas, three self-c
 
 **Three Core Evidence Readings**:
 1. **Offline State-Machine Rehearsal**: **12/12** tasks passed; Handover Assertions: **48/48** passed;
-2. **Three Deep Delivery Contracts**: CONTRACT-S01 / CONTRACT-S04 / CONTRACT-S07 define explicit roles, T1–T3 operational triggers, and demountable fast-reset logistics;
+2. **Three Deep Delivery Contracts**: CONTRACT-S01 / CONTRACT-S04 / CONTRACT-S07 close ordinary baseline, admission gate, minimum reversible delta, human authority, and exit/reset side by side; read FIG.05 first, then deepen through this section and the delivery mechanism chapter;
 3. **Field Engineering & Live Deployment**: **0/12**, strictly reserved for the field environment, contingent upon official data release, statutory redlines, and formal authorizations. [metric:deep_ai_task_packet_count]
 
 ---
@@ -109,7 +109,7 @@ All three interfaces follow a scale-free typology of `S0 Ordinary City → S1 Ad
 > **How to Read This Figure (FIG.03 Three Key Areas and Differentiated Cross-Sections)**:
 > 1. **Compare Three Differentiated Sections**: Observe the distinct cross-sectional logics across the northern water-arrival mosaic, middle campus threshold, and southern grade-separated hub;
 > 2. **Audit S0–S1–S2 Cycle**: Trace each key area from ordinary city (S0) to admitted specialist state (S1) to complete physical reset (S2);
-> 3. **Confirm Typological Nature**: Recognize drawings as scale-free typological prototypes rather than fabricated construction blueprints.
+> 3. **Confirm Typological Nature**: Recognize drawings as scale-free typological prototypes rather than fabricated construction blueprints; FIG.05 verifies each complete ordinary-base–admission-gate–spatial-delta–human-authority–exit/reset contract side by side.
 
 ---
 
@@ -232,12 +232,12 @@ The Heritage Park, Qinghe River, Xiaoyue River, ordinary streets, courtyard fore
 
 All computable areas and lengths are derived deterministically from GeoJSON layers in EPSG:4548: provisional site, concept land use, building footprints, green/public spaces, and concept connections are designated as GEOMETRY_DERIVED. Statutory FAR, height limits, and utility capacities are designated as UNKNOWN, refusing to substitute graphic precision for evidence. [metric:concept_land_use_area_sqm] [metric:green_space_area_sqm] [metric:public_space_area_sqm] Concept connection length is a separate non-engineering indicator. [metric:concept_road_length_m] Recalculation rules are fixed in the design depth index. [depth:metrics_recalculation] Three matrices link all tasks, standards, and depth items to specific prose, layers, metrics, drawings, sources, assumptions, and review gates.
 
-![Metrics, evidence, and phase gates](assets/figures/metrics-evidence.en.png)
+![Twelve-to-three-to-nine and the three admission, stop, and exit contracts](assets/figures/metrics-evidence.en.png)
 
-> **How to Read This Figure (FIG.05 Metrics, Evidence, and Phase Gates)**:
-> 1. **Check 12/12 State Machine Pass**: Confirm that 12 offline tasks and 48 takeover assertions pass completely;
-> 2. **Review Known/Unknown Demarcation**: Confirm that statutory FAR and height limits are honestly logged as UNKNOWN;
-> 3. **Verify Four Review Gates**: Confirm that DETERMINISTIC, SPATIAL, VISUAL, and PROFESSIONAL gates all achieve PASS status.
+> **How to Read This Figure (FIG.05 Three-Contract Reviewer Spine)**:
+> 1. **Start with 12→3→9**: Only S01 / S04 / S07 form deep spatial packets; the other nine tasks retain ordinary carriers or NO BUILD;
+> 2. **Then Verify the Three Contracts by Column**: Each column keeps ordinary baseline, admission gate, minimum delta, human authority, and 15–30 minute physical reset together;
+> 3. **Finally Separate Evidence States**: Known/derived, design rule/target, and assumption/unknown/pause are visibly distinct, so targets cannot masquerade as observed outcomes.
 
 ---
 

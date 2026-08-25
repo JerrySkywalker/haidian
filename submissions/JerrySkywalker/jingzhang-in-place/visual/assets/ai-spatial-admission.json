@@ -326,7 +326,7 @@
       "stop": "unsafe state, absent authority, stale evidence or public-route conflict",
       "reset": "remove equipment; manual inspection; ordinary carrier usable",
       "handoff": "dated dossier; interface drawing; stop/reset record",
-      "cost_class": "temporary specialist equipment and supervised reversible fit-out; quantities and procurement remain contingent"
+      "funding_mechanism_options": "CONCEPT_PROPOSAL: a future rights-holder may assess public-interest renewal, research/test partnership, operator contribution or philanthropic/public-cultural support; no cost, procurement or funding commitment is asserted"
     },
     {
       "contract_id": "CONTRACT-S04",
@@ -346,7 +346,7 @@
       "stop": "rights, data or handover failure; public-use loss",
       "reset": "clear controlled resources and restore ordinary room",
       "handoff": "rights/access checklist; task boundary; reset record",
-      "cost_class": "removable room partition and supervised operating kit; quantities require carrier survey and written approvals"
+      "funding_mechanism_options": "CONCEPT_PROPOSAL: a future rights-holder may assess public-interest renewal, research/test partnership, operator contribution or philanthropic/public-cultural support; no cost, procurement or funding commitment is asserted"
     },
     {
       "contract_id": "CONTRACT-S07",
@@ -366,67 +366,69 @@
       "stop": "absent reviewer, stale evidence, privacy failure or loss of ordinary service",
       "reset": "remove/clear kit and materials, ordinary service resumes",
       "handoff": "dated review/appeal/reset record",
-      "cost_class": "Class I (<= 500k RMB) staffed service adaptation with removable privacy/wayfinding elements; quantities require a surveyed carrier"
+      "funding_mechanism_options": "CONCEPT_PROPOSAL: a future rights-holder may assess public-interest renewal, research/test partnership, operator contribution or philanthropic/public-cultural support; no cost, procurement or funding commitment is asserted"
     }
   ],
   "sector_spatial_envelopes": {
     "S01_embodied_ai_robotics": {
       "task_id": "S01",
       "area": "Zhongzhiyuan",
-      "envelope_type": "Embodied AI & Environmental Robotics Physical Validation Envelope",
-      "dimensions": "clear width 6.0m, clear height 4.5m [DESIGN_ASSUMPTION]",
-      "physical_boundaries": "1.2m demountable physical crash rail [DESIGN_ASSUMPTION], acoustic damping floor mat [INDICATIVE_REQUIREMENT]",
-      "sensing_hardware_limits": "miniaturized mast <= 3.5m height, no facial recognition, no panoramic public surveillance [INDICATIVE_REQUIREMENT]",
-      "power_mep": "quick-plug industrial grade power interface (380V/32A with ground-fault interrupter) [INDICATIVE_REQUIREMENT]",
-      "reset_time_minutes": 30
+      "envelope_type": "CONCEPT_PROPOSAL: embodied-AI physical-validation interface",
+      "dimensions": "PAUSE_UNTIL_OFFICIAL_DATA: no dimensional, load, clearance or survey claim is made",
+      "physical_boundaries": "CONCEPT_PROPOSAL: a removable boundary and ordinary-route protection may be professionally studied after carrier, safety and accessibility confirmation",
+      "sensing_hardware_limits": "DESIGN_RULE: no biometric identification or panoramic public surveillance; any sensing concept requires future privacy and technical review",
+      "power_mep": "PAUSE_UNTIL_OFFICIAL_DATA: no power, MEP, capacity or connection specification is asserted",
+      "reset_timing": "DESIGN_RULE: reset must be rehearsed and recorded before any future session; no duration or field-performance claim is asserted"
     },
     "S04_foundation_model_collaboration": {
       "task_id": "S04",
       "area": "AI Origin",
-      "envelope_type": "Multi-Modal Foundation Model & Campus-City Collaboration Envelope",
-      "dimensions": "clear width 8.0m, clear height 3.8m [DESIGN_ASSUMPTION]",
-      "physical_boundaries": "modular sliding acoustic curtain (STC 42), foldable electrochromic privacy partition [DESIGN_ASSUMPTION]",
-      "sensing_hardware_limits": "directional audio cone <= 2.0m radius, localized collaborative display terminal [INDICATIVE_REQUIREMENT]",
-      "power_mep": "standard commercial plug-and-play busway [INDICATIVE_REQUIREMENT]",
-      "reset_time_minutes": 20
+      "envelope_type": "CONCEPT_PROPOSAL: consent-bound collaboration handover interface",
+      "dimensions": "PAUSE_UNTIL_OFFICIAL_DATA: no dimensional, acoustic, survey or room-performance claim is made",
+      "physical_boundaries": "CONCEPT_PROPOSAL: a removable handover/privacy treatment may be professionally studied after rights, data, fire and accessibility confirmation",
+      "sensing_hardware_limits": "DESIGN_RULE: no ambient public-space collection; any data interface requires future privacy and technical review",
+      "power_mep": "PAUSE_UNTIL_OFFICIAL_DATA: no power, MEP, capacity or connection specification is asserted",
+      "reset_timing": "DESIGN_RULE: reset must be rehearsed and recorded before any future session; no duration or field-performance claim is asserted"
     },
     "S07_station_city_transit_flow": {
       "task_id": "S07",
       "area": "Dazhongsi",
-      "envelope_type": "Station-City Multi-Agent Transit Flow & Compliance Review Forecourt",
-      "dimensions": "clear width 12.0m, clear height 4.2m [DESIGN_ASSUMPTION]",
-      "physical_boundaries": "1.8m height privacy screen [DESIGN_ASSUMPTION], 1.5m tactile paving clearance envelope [SOURCE_BACKED: GB 50763]",
-      "sensing_hardware_limits": "low-heat infrared crowd density matrix (coarse bounding box only, zero biometric ID) [INDICATIVE_REQUIREMENT]",
-      "power_mep": "recessed floor outlet boxes with emergency disconnect [INDICATIVE_REQUIREMENT]",
-      "reset_time_minutes": 15
+      "envelope_type": "CONCEPT_PROPOSAL: staffed adoption/compliance-review service interface",
+      "dimensions": "PAUSE_UNTIL_OFFICIAL_DATA: no dimensional, station, property, survey or performance claim is made",
+      "physical_boundaries": "CONCEPT_PROPOSAL: a removable privacy/wayfinding treatment may be professionally studied after rights, privacy and accessibility confirmation",
+      "sensing_hardware_limits": "DESIGN_RULE: no biometric identification or public personal-data display; any sensing concept requires future privacy and technical review",
+      "power_mep": "PAUSE_UNTIL_OFFICIAL_DATA: no power, MEP, capacity or connection specification is asserted",
+      "reset_timing": "DESIGN_RULE: reset must be rehearsed and recorded before any future session; no duration or field-performance claim is asserted"
     }
   },
   "proposal_target_inclusion_floors": {
-    "status": "proposal_target_commitment_only",
-    "step_free_trunk_route_target": "100% target across 11.4 km2 overall design zone (slopes <= 1:20 [SOURCE_BACKED: GB 50763])",
-    "staffed_service_desk_walking_radius_target_m": 300,
-    "offline_non_digital_service_retention_floor": "100% paper forms, telephone helpline, and in-person counters commitment",
-    "sheltered_rest_seating_interval_target_m": 150,
-    "sheltered_seating_floor_area_ratio_target": ">= 15% along public corridor nodes",
-    "anti_displacement_covenant_target": "100% retention or adjacent relocation commitment for existing small-scale convenience businesses"
+    "status": "DESIGN_RULE",
+    "step_free_route_rule": "DESIGN_RULE: future design must retain an accessible non-digital alternative; alignment, slope, extent and compliance require survey and professional review",
+    "staffed_service_rule": "DESIGN_RULE: a human, non-app-only service alternative must remain available where a future scenario is considered",
+    "offline_non_digital_service_rule": "DESIGN_RULE: paper, telephone or in-person fallback must be confirmed before any controlled service session",
+    "rest_and_shelter_rule": "DESIGN_RULE: future public-space detail must assess accessible rest, shelter, maintenance and climate conditions; no quantity is asserted",
+    "small_business_rule": "DESIGN_RULE: future intervention must test continuity and public-interest effects on small local businesses; no retention or relocation commitment is asserted"
   },
   "governance_and_safeguards_framework": {
-    "statutory_basis": "Beijing Urban Renewal Regulations (北京市城市更新条例)",
+    "statutory_basis": "SOURCE_BACKED_KNOWN: relevant statutory processes require current official confirmation; this package does not allocate legal powers",
     "statutory_authorities": [
-      "Haidian Planning and Natural Resources Bureau (区规自分局) - statutory planning, land oversight, and public-interest review",
-      "Local Sub-district Office (属地街道办事处) - territorial administration, public safety coordination, and administrative oversight"
+      "SOURCE_BACKED_KNOWN: relevant planning, land, public-safety and territorial-administration actors must be identified from current official records before any action",
+      "UNKNOWN: exact jurisdiction, approval sequence, owner/operator consent and stop authority remain to be confirmed"
     ],
-    "proposal_specific_safeguards": [
-      "Designated Renewal Implementing Entity (jointly authorized by sub-district and property owners per statutory procedure)",
-      "Proposed Independent Compliance & Ethics Review Panel (proposal-specific multidisciplinary advisory mechanism with one-vote pause authority)",
-      "Proposed Certified On-Site Human Safety Monitor (continuous operational duty directly connected to physical E-Stop trigger)",
-      "Venue Operator (daily facilities management and fast physical reset execution)"
+    "proposed_operational_roles": [
+      "CONCEPT_PROPOSAL: a future carrier steward may coordinate a bounded concept session only after rights-holder agreement",
+      "CONCEPT_PROPOSAL: a future qualified reviewer may advise on evidence, privacy, accessibility and stop conditions; no statutory authority is asserted",
+      "CONCEPT_PROPOSAL: a future human safety/operations role may stop a session only after applicable legal, professional and operator confirmation",
+      "UNKNOWN: appointment, credential, operator mandate, owner consent and legal stop authority remain unresolved"
     ],
-    "proposal_indicative_planning_cost_bands": {
-      "Class_I_low_impact_demountable": "<= 500k RMB (indicative pre-feasibility band for sub-district micro-renewal and operator self-funding)",
-      "Class_II_medium_impact_spatial_mending": "500k - 3.0M RMB (indicative pre-feasibility band for urban renewal support funds)",
-      "Class_III_long_horizon_interface": "> 3.0M RMB (indicative pre-feasibility band for conditional infrastructure interfaces requiring formal public capital programming)"
-    }
+    "funding_mechanism_options": [
+      "CONCEPT_PROPOSAL: public-interest renewal mechanism",
+      "CONCEPT_PROPOSAL: research/test partnership",
+      "CONCEPT_PROPOSAL: operator contribution",
+      "CONCEPT_PROPOSAL: philanthropic or public-cultural support",
+      "CONCEPT_PROPOSAL: appropriate commercial revenue where later defensible",
+      "UNKNOWN: no committed funding, cost, procurement, investment or government promise is asserted"
+    ]
   },
   "limits": "CONCEPT / SCALE-FREE / RIGHTS AND CARRIER SUBJECT TO CONFIRMATION. No parcel, dimension, ownership, statutory, engineering, cost-total, procurement or approval claim."
 }

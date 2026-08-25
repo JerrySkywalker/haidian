@@ -384,7 +384,7 @@ All computable areas and lengths are derived deterministically from GeoJSON laye
 
 > **How to Read This Figure (FIG.05 Three-Contract Reviewer Spine)**:
 > 1. **Start with 12→3→9**: Only S01 / S04 / S07 form deep spatial packets; the other nine tasks retain ordinary carriers or NO BUILD;
-> 2. **Then Verify the Three Contracts by Column**: Each column keeps ordinary baseline, admission gate, minimum delta, human authority, and 15–30 minute physical reset together;
+> 2. **Then Verify the Three Contracts by Column**: Each column keeps ordinary baseline, admission gate, minimum delta, human authority, and a physical reset that must first be rehearsed and recorded together; this proposal asserts no reset duration or field performance;
 > 3. **Finally Separate Evidence States**: Known/derived, design rule/target, and assumption/unknown/pause are visibly distinct, so targets cannot masquerade as observed outcomes.
 
 ---

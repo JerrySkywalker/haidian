@@ -26,7 +26,7 @@
       "role": "narrative",
       "required": true,
       "language": "zh",
-      "sha256": "a63e8d1149efbbcdb025b3da15bd3b4e4d1fe9ccbc7096392abe2377a84cdfa2"
+      "sha256": "82dbd81de0c0419292adc796b312b5ab6d7cf667116d267da04387aa6d77ce5e"
     },
     {
       "path": "agent.json",
@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "09c36406b099ab345986a83e9cd4f7b43648921ea66c1e07ab2ced9d52213977"
+      "sha256": "76c9effc553138f2e7a89bcc58f3e1b10a31ed73cd7b6ebb7772083aefb14952"
     },
     {
       "path": "compliance_matrix.json",
@@ -81,7 +81,7 @@
       "role": "rendered_proposal_html",
       "required": true,
       "language": "zh",
-      "sha256": "3f9995e7f301e6e6a383383bdce43056a35015d6695f97fbc100b50dc0c925d3"
+      "sha256": "a1cf6d18822ee54e4bbacbe5d685a177f56babeb43316fe42da0a4863b85b97e"
     },
     {
       "path": "report/narrative.md",
@@ -225,7 +225,7 @@
       "required": true,
       "language": "en",
       "translation_of": "proposal.md",
-      "sha256": "392abfc32b0d7a5b479e01f82c82d69ea87cc858b57d87fb2156f07fb3d0d7f1"
+      "sha256": "85f44da4ef3bd5d833a6a9ff37bb9531d309e9358a9dc9447d2db837cacb3a66"
     },
     {
       "path": "report/proposal.en.html",
@@ -233,7 +233,7 @@
       "required": true,
       "language": "en",
       "translation_of": "report/proposal.html",
-      "sha256": "ab83e3c3b492f7248e97d3b8903e7d338b4a6e7d9cc1e7350a7e246a9ea03ec9"
+      "sha256": "6373f1c84608ea260d038c88ae6991f9db02d91e68648e5250606642fc023d91"
     },
     {
       "path": "drawings/a3-booklet.en.pdf",
@@ -337,7 +337,7 @@
       "path": "visual/assets/renewal-project-portfolio.json",
       "role": "evidence_data",
       "required": false,
-      "sha256": "509e769e5f4e1c15374380428d8ca31a80c7f8c77a8c7cae77f77ef57ac8f2d6"
+      "sha256": "3bbed6e25af8fb7813f382ccf7665aefb80adb6a41847f9cf6ad72f331a05237"
     },
     {
       "path": "visual/assets/design-evidence-index.json",
@@ -349,7 +349,7 @@
       "path": "visual/assets/ai-spatial-admission.json",
       "role": "evidence_data",
       "required": false,
-      "sha256": "1444f00b30fa087f0eb279a95f0f6d87ab7bfbd208a46035a16a1357fb37318f"
+      "sha256": "0f7df5aa56d49885c2b45663c18a7b4152e380a0de2bc7a771a4f5e18762ea4a"
     },
     {
       "path": "visual/assets/taskbook-closure.json",

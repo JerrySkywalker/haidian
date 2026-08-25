@@ -292,6 +292,10 @@ All three remain `CONCEPT_PROPOSAL`. None is described as approved, deployed, fi
 
 All three deep scenarios remain `CONCEPT_PROPOSAL`. Their feasibility does not come from saying “buildable, funded or operable.” It comes from making insufficient evidence, rights, access, capacity, data, staffing and reset conditions into gates that cannot be skipped. The nine ordinary-space/NO-BUILD outcomes do not await spatial construction, yet still retain human responsibility and stop conditions. [data:visual/assets/taskbook-closure.json#claim_qualifications]
 
+### The Site-validation Packet Is a Pause Gate, Not a Missing Promise
+
+This submission **does not contain** a site-validated implementation packet and therefore does not call any deep contract implementable. A future packet must bind official geometry, rights/access, authority, engineering and capacity, funding path, and phasing/approvals for the same carrier; every one is currently `PAUSE_UNTIL_OFFICIAL_DATA`, `AUTHORIZATION_REQUIRED`, or `PROFESSIONAL_DEEPENING_REQUIRED`. Until rights-holders and qualified professionals establish, review and authorize that packet, S01/S04/S07 can only remain an ordinary-space result or pause. The table below records feasibility **boundaries and next steps** that do not invent site data; it is not field-feasibility proof. [data:visual/assets/taskbook-closure.json#claim_qualifications]
+
 ### Read Actor, Funding and Readiness Separately
 
 - **SOURCE_BACKED_KNOWN**: The taskbook and source registry support the concept and public-source boundaries, including the rule that humans and professional teams make the final decision. They appoint no local actor. [source:AGENT-TASKBOOK]

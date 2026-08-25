@@ -294,6 +294,10 @@ AI-off 时，公共路径、混合城市、蓝绿、普通房间、人工服务�
 
 三个深度场景都处于 `CONCEPT_PROPOSAL`。它们的可实施性不来自一句“可建/可投/可运营”的判断，而来自把不够的证据、权利、进入、容量、数据、人员和复位条件写成不能跳过的门。九项普通空间/NO-BUILD 结果不需等待空间施工，也同样要保留人工责任和停止条件。[data:visual/assets/taskbook-closure.json#claim_qualifications]
 
+### 现场实施包是暂停门，而不是缺失的承诺
+
+本次投稿**不含**现场验证的实施包，也不因此把任何深度合同称为可实施。这样的未来包必须在同一处载体上绑定官方几何、权利/进入、权威、工程与容量、资金路径和分期/审批；当前每一项均为 `PAUSE_UNTIL_OFFICIAL_DATA`、`AUTHORIZATION_REQUIRED` 或 `PROFESSIONAL_DEEPENING_REQUIRED`。在该包由权利人和合格专业团队建立、复核并授权前，S01/S04/S07 的结果只能是普通空间或暂停。下表记录的是不依赖虚构现场数据的可实施性**边界与下一步**，不是现场可行性证明。[data:visual/assets/taskbook-closure.json#claim_qualifications]
+
 ### 主体、资金与就绪状态必须分开读
 
 - **SOURCE_BACKED_KNOWN**：任务书和来源登记支持概念边界、公开资料边界与必须由人类/专业团队作最终判断的规则；它们不任命任何本地主体。[source:AGENT-TASKBOOK]

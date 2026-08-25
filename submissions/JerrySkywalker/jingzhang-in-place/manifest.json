@@ -56,7 +56,7 @@
       "path": "self_check.json",
       "role": "self_check",
       "required": true,
-      "sha256": "c7f440dd4e9eb4ba4a0fca93fda86b72505b5886a2979cc299b2c2c59eddb558"
+      "sha256": "02bbeb0ec871fdded37619a55658ac8857e2c1cf8c25ee46819964a474f656c8"
     },
     {
       "path": "compliance_matrix.json",
@@ -325,7 +325,7 @@
       "path": "changelog.md",
       "role": "changelog",
       "required": false,
-      "sha256": "b0477259579e1688abf82c14ba165918cde19a2120e1ca3e3c56fb7e74bff8de"
+      "sha256": "b6e086ac88546d1cf272b46e0d8b2b7342e2a5aac43bc09badd04ca12e241d1f"
     },
     {
       "path": "visual/assets/status-action-register.json",
@@ -337,7 +337,7 @@
       "path": "visual/assets/renewal-project-portfolio.json",
       "role": "evidence_data",
       "required": false,
-      "sha256": "3bbed6e25af8fb7813f382ccf7665aefb80adb6a41847f9cf6ad72f331a05237"
+      "sha256": "dfbb5644d5f41bd7bbff431f8025bc990464a7b61eb1709c35c97c557e4b2587"
     },
     {
       "path": "visual/assets/design-evidence-index.json",

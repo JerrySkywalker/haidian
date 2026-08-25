@@ -36,7 +36,7 @@
       "budget_tier": "CONCEPT_PROPOSAL: funding mechanism options only; no cost, procurement, investment or government commitment is asserted",
       "statutory_authority": "Barrier-free Working Group / Transport & Accessibility Operations",
       "delivery_contract": "NO-BUILD-ORDINARY-AUDIT",
-      "success_metric": "continuous physical fallback recorded (100% step-free trunk routes, <= 300m walking radius to staffed service)",
+      "success_metric": "DESIGN_RULE: future professional review must verify a continuous non-digital accessible fallback and staffed-service reach; no route percentage or walking-radius performance is asserted.",
       "stop_condition": "stop if route relies on unverified access",
       "owner_operator_type": "transport/accessibility team"
     },
@@ -112,7 +112,7 @@
       "budget_tier": "CONCEPT_PROPOSAL: funding mechanism options only; no cost, procurement, investment or government commitment is asserted",
       "statutory_authority": "Zhongzhiyuan Operating Body / Certified Safety Monitoring Unit",
       "delivery_contract": "CONTRACT-S01",
-      "success_metric": "manual fallback and exit tested (clear 6.0m x 4.5m envelope, 1.2m crash rail, 60s T1 trigger)",
+      "success_metric": "CONCEPT_PROPOSAL: before any future session, a qualified team must rehearse manual fallback and reset; no envelope, rail, timing or field-performance value is asserted.",
       "stop_condition": "stop on any public/safety condition",
       "owner_operator_type": "task owner and venue operator"
     },
@@ -150,7 +150,7 @@
       "budget_tier": "CONCEPT_PROPOSAL: funding mechanism options only; no cost, procurement, investment or government commitment is asserted",
       "statutory_authority": "AI Origin Operating Consortium / Data Privacy Oversight Panel",
       "delivery_contract": "CONTRACT-S04",
-      "success_metric": "reset/clear/reuse protocol works (clear 8.0m x 3.8m envelope, STC 42 acoustic partition, 5min T2 trigger)",
+      "success_metric": "CONCEPT_PROPOSAL: before any future session, a qualified team must rehearse clearing and ordinary-room reuse; no dimensions, acoustic rating, timing or room-performance value is asserted.",
       "stop_condition": "stop on privacy or public-use loss",
       "owner_operator_type": "data steward and venue operator"
     },
@@ -188,7 +188,7 @@
       "budget_tier": "CONCEPT_PROPOSAL: funding mechanism options only; no cost, procurement, investment or government commitment is asserted",
       "statutory_authority": "Beijing Rail Transit Operations / Dazhongsi Station-City Hub Management",
       "delivery_contract": "NO-BUILD-ORDINARY-AUDIT",
-      "success_metric": "physical fallback route documented (Line 13 Exits A/B and Line 12 Exits D/E access and contextual street connections)",
+      "success_metric": "PAUSE_UNTIL_OFFICIAL_DATA: a future four-direction accessibility audit must document a physical non-digital fallback; no station access, exit, route or engineering condition is asserted.",
       "stop_condition": "stop if cannot verify safe continuity",
       "owner_operator_type": "transport/accessibility team"
     },
@@ -207,7 +207,7 @@
       "budget_tier": "CONCEPT_PROPOSAL: funding mechanism options only; no cost, procurement, investment or government commitment is asserted",
       "statutory_authority": "Beixiaguan Sub-district / Dazhongsi Renewal Entity",
       "delivery_contract": "NO-BUILD-ORDINARY-REPAIR",
-      "success_metric": "ordinary commercial and service continuity (100% anti-displacement of small convenience shops)",
+      "success_metric": "DESIGN_RULE: future assessment must test ordinary commercial and service continuity and displacement risk; no tenant-retention percentage or commitment is asserted.",
       "stop_condition": "stop on displacement/access harm",
       "owner_operator_type": "renewal coordinator and users"
     },
@@ -226,7 +226,7 @@
       "budget_tier": "CONCEPT_PROPOSAL: funding mechanism options only; no cost, procurement, investment or government commitment is asserted",
       "statutory_authority": "Beixiaguan Sub-district Office / Proposed Independent Compliance Panel",
       "delivery_contract": "CONTRACT-S07",
-      "success_metric": "manual/offline review and ordinary reuse (clear 12.0m x 4.2m envelope, 1.8m privacy screen, 30min T3 TTL trigger)",
+      "success_metric": "CONCEPT_PROPOSAL: before any future session, a qualified team must rehearse human-only review, ordinary reuse and reset; no envelope, screen, timing or field-performance value is asserted.",
       "stop_condition": "stop if stale evidence/no reviewer",
       "owner_operator_type": "venue operator and qualified reviewer"
     },
